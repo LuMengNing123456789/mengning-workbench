@@ -1,0 +1,23 @@
+{
+  "name": "卢梦宁 · 个人工作台",
+  "short_name": "梦宁工作台",
+  "description": "卢梦宁的个人生活与成长工作台 - 待办、运动、做饭、阅读、英语、育儿、复盘、旅行、成长、喝水记录",
+  "start_url": "/卢梦宁个人工作台.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF8F3",
+  "theme_color": "#FAF8F3",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
